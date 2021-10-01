@@ -1,0 +1,11 @@
+h1,
+h2 {
+    background-color: rgb(112, 205, 248);
+    font-family: Cursive;
+}
+
+body {
+    background-color:rgb(224, 229, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
